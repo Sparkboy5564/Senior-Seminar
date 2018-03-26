@@ -1,10 +1,10 @@
-"""
-  Author: Tochi Opara
-  Date:   3-26-2018
-  
-  importing the necessary module:
-      The time stamp for the block are used from the python time and date module.
-"""
+#title           : blockchain.py
+#description     : blockchain basics
+#author          : Tochi Opara
+#date            : 3-26-2018
+#python_version  : 3  
+#==============================================================================
+
 import datetime
 import time
 import pickle
