@@ -1,6 +1,6 @@
 #title           : blockchain.py
 #description     : blockchain basics
-#author          : Tochi Opara
+#author          : Tochi Opara, Edomias Kassa
 #date            : 3-26-2018
 #python_version  : 3  
 #==============================================================================
@@ -187,7 +187,7 @@ def number():
     return int(num)
 
         
-def main():
+def progs():
     print("\tTransaction Block Menu\n")
     menu()
     print("\n")
@@ -226,5 +226,7 @@ def main():
         print()
     
 
+def main():
+    prog()
 if __name__=="__main__":
     main()
