@@ -1,0 +1,2 @@
+# Senior-Seminar
+Simplistic blockchain
